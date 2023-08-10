@@ -1,0 +1,51 @@
+
+.button {
+    background-color: beige;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.selected-country {
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.select-country {
+
+}
+
+.App-container {
+    background-color: lightblue;;
+}
+
+.App {
+    background-color: bisque;
+    margin: 20px 20px 20px 20px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 500px;
+    height: 4000px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
